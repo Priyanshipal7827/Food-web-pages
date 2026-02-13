@@ -5,6 +5,9 @@
     /* font-family: "Dancing Script", cursive;    */
 
 }
+body{
+    overflow:visible;
+}
 
 .forent-page {
     background-image: url("https://themewagon.github.io/feane/images/hero-bg.jpg");
